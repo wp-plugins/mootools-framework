@@ -2,9 +2,9 @@
 /*
 Plugin Name: Mootools Framework
 Plugin URI: http://nilswindisch.de
-Description: Adds the Mootools JS Library (Version 1.11, all functions, YUI compressed).
+Description: Adds the Mootools JS Library (Version 1.2, all functions, YUI compressed).
 Author: Nils K. Windisch
-Version: 1.1
+Version: 1.2
 Author URI: http://nilswindisch.de
 */
 

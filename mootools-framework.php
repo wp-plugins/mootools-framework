@@ -11,7 +11,7 @@ Author URI: http://nilswindisch.de
 add_action("wp_head","mootoolsFramework");
 
 function mootoolsFramework() {
-	echo "\n\n<script type='text/javascript' src='".get_bloginfo('wpurl')."/wp-content/plugins/mootools-framework/mootools.js?v=1.11'></script>\n\n";
+	echo "\n\n<script type='text/javascript' src='".get_bloginfo('wpurl')."/wp-content/plugins/mootools-framework/mootools.js?v=1.2'></script>\n\n";
 }
 
 ?>

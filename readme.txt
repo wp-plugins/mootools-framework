@@ -3,8 +3,8 @@ Contributors: nilswindisch
 Donate link: http://nilswindisch.de
 Tags: mootools, framework
 Requires at least: 2.0
-Tested up to: 2.5
-Stable tag: 1.1
+Tested up to: 2.6
+Stable tag: 1.2
 
 This plugin adds the Mootools Javascript framework to your site. Useful if you use/code plugins that require Mootools.
 
